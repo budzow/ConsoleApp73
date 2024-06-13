@@ -9,9 +9,10 @@
         }
 
 
-        int func(String p)
+        static int func(String p)
         {
             return p.Length;
         }
+
     }
 }
