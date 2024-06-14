@@ -20,7 +20,7 @@
         {
             var i = 0;
             var result = 0;
-            while (true) // Noncompliant: the program will never stop
+            while (true)
             {
                 result += i;
                 i++;
